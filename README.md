@@ -19,5 +19,8 @@ Atualmente me dedico para aprender algumas linguagens de programação e um pouc
   - JavaScript
   - Linguagem C
 
-
-
+## O que pretendo estudar no futuro 📙
+  
+  - Linguagem C#
+  - Python
+  - CSS
