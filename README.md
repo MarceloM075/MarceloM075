@@ -1,4 +1,6 @@
-<h1 align ="center"><b>Olá, eu sou o Marcelo!</b></h1>
+<h1 align ="center"><b>
+  Olá, eu sou o Marcelo!</b>
+</h1>
 
 <h2 align="center">
 <hr>
@@ -8,11 +10,11 @@
 <hr>
 </h2>
 
-
 ```
 Sou estudande de Análise e Desenvolvimento de Sistemas pela UNIP - Universidade Paulista.
 Atualmente me dedico para aprender algumas linguagens de programação e um pouco sobre outras tecnologias.
 ```
+
 ## O que estudo atualmente 📚
 
   - HTML
@@ -24,3 +26,8 @@ Atualmente me dedico para aprender algumas linguagens de programação e um pouc
   - Linguagem C#
   - Python
   - CSS
+
+
+<h6 align ="center">
+  O GIF Hello World foi adquirido via <a href="https://giphy.com/gifs/i4MAH84pqe2m2aVojc"> GIPHY</a>
+  </h6>
