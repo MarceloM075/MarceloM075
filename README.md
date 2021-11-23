@@ -29,5 +29,5 @@ Atualmente me dedico para aprender algumas linguagens de programação e um pouc
 
 
 <h6 align ="center">
-  O GIF Hello World foi adquirido via <a href="https://giphy.com/gifs/i4MAH84pqe2m2aVojc" target= _blank> GIPHY</a>
-  </h6>
+  O GIF Hello World foi adquirido via <a target=_blank href="https://giphy.com/gifs/i4MAH84pqe2m2aVojc"> GIPHY</a>
+</h6>
