@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @MarceloM075
-- 👀 I’m interested in web development and coding.
-- 🌱 I’m currently learning C and JavaScript.
-- 💞️ I’m looking to collaborate on anything thar I can help. I'm not an expert, I just know the basics, but I can try my best.
+<center><b><big> Olá, eu sou o Marcelo! </big></b></center></br>
