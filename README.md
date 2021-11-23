@@ -15,13 +15,13 @@ Sou estudande de Análise e Desenvolvimento de Sistemas pela UNIP - Universidade
 Atualmente me dedico para aprender algumas linguagens de programação e um pouco sobre outras tecnologias.
 ```
 
-## O que estudo atualmente 📚
+### O que estudo atualmente 📚
 
   - HTML
   - JavaScript
   - Linguagem C
 
-## O que pretendo estudar no futuro 📙
+### O que pretendo estudar no futuro 📙
   
   - Linguagem C#
   - Python
