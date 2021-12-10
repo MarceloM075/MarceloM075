@@ -18,6 +18,7 @@ Atualmente me dedico para aprender algumas linguagens de programação e um pouc
 ### O que estudo atualmente 📚
 
   - HTML
+  - CSS
   - JavaScript
   - Linguagem C
 
