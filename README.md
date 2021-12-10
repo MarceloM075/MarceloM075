@@ -26,7 +26,6 @@ Atualmente me dedico para aprender algumas linguagens de programação e um pouc
   
   - Linguagem C#
   - Python
-  - CSS
 
 
 <h6 align ="center">
