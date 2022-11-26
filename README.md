@@ -34,6 +34,8 @@ Atualmente me dedico para aprender algumas linguagens de programação e um pouc
 ### O que pretendo estudar no futuro 📙
   
   - Linguagem C#
+  - Banco Relacional
+  - Banco não relacional
 
 
 
