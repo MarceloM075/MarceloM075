@@ -26,19 +26,21 @@ Atualmente me dedico para aprender algumas linguagens de programação e um pouc
   - HTML
   - CSS
   - JavaScript
-  - Linguagem C
+  - JQuery
+  - Bootstrap
+  - React
+<!--   - Linguagem C -->
 
 ### O que pretendo estudar no futuro 📙
   
   - Linguagem C#
-  - Python
 
 
 
-### O que estou fazendo atualmente ⁉
+<!-- ### O que estou fazendo atualmente ⁉ -->
 
-  Estou tentando desenvolver um site de cadastro de pessoas diagnosticadas com Covid19, é praticamente a mesma coisa que esse projetinho <a href="https://github.com/MarceloM075/Meu-primeiro-programa-em-C"> aqui</a>. <br>
-  Se quiser conferir o andamento dele, basta clicar <a href="https://github.com/MarceloM075/Cadastro-de-Pessoas-com-Covid19---Web"> aqui</a>.
+<!--  Estou tentando desenvolver um site de cadastro de pessoas diagnosticadas com Covid19, é praticamente a mesma coisa que esse projetinho <a href="https://github.com/MarceloM075/Meu-primeiro-programa-em-C"> aqui</a>. <br> -->
+<!--   Se quiser conferir o andamento dele, basta clicar <a href="https://github.com/MarceloM075/Cadastro-de-Pessoas-com-Covid19---Web"> aqui</a>. -->
   
   
 <hr>
