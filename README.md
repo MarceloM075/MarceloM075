@@ -31,9 +31,8 @@ Atualmente me dedico para aprender algumas linguagens de programação e um pouc
   - React
 <!--   - Linguagem C -->
 
-### O que pretendo estudar no futuro 📙
+### O que vou estudar no futuro 📙
   
-  - Linguagem C#
   - Banco Relacional
   - Banco não relacional
 
