@@ -10,7 +10,7 @@
 
 </h2>
 
-- 🔭 I’m currently working on this personal project [calculadora](https://github.com/MarceloM075/my-portfolio)
+- 🔭 I’m currently working on this project [my-portfolio](https://github.com/MarceloM075/my-portfolio)
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, Bootstrap, Express, NextJS, Webpack and Git.**
 
